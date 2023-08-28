@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/davidfsora//goit-react-hw-01-components/static/css/main.afc5ef34.css",
+    "main.js": "/davidfsora//goit-react-hw-01-components/static/js/main.e688fcbe.js",
+    "index.html": "/davidfsora//goit-react-hw-01-components/index.html",
+    "main.afc5ef34.css.map": "/davidfsora//goit-react-hw-01-components/static/css/main.afc5ef34.css.map",
+    "main.e688fcbe.js.map": "/davidfsora//goit-react-hw-01-components/static/js/main.e688fcbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afc5ef34.css",
+    "static/js/main.e688fcbe.js"
+  ]
+}
