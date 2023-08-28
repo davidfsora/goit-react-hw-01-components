@@ -1,0 +1,39 @@
+.friendlist {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	gap: 10px;
+	padding: 20px;
+	margin: 0;
+}
+
+.item {
+	min-width: 200px;
+	height: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: left;
+	gap: 20px;
+	padding: 20px;
+	align-items: center;
+	background-color: #fff;
+	border: 1px solid #DAE2EB;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px 2px #DAE2EB;
+}
+
+.item:hover {
+	cursor: pointer;
+}
+
+.status {
+	width: 20px;
+	height: 20px;
+	display: flex;
+	border-radius: 50%;
+}
+
+.avatar {
+	border-radius: 5px;
+}
+
